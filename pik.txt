@@ -1,2 +1,2 @@
 https://github.com/mi1le5/help.git
-nikita
+git clone https://github.com/mi1le5/ekz.git
